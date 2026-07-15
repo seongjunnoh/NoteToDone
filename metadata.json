@@ -1,0 +1,6 @@
+{
+  "name": "NoteToDone",
+  "description": "An AI-powered tool that automatically extracts to-do lists, prioritizes tasks, and recommends deadlines from unstructured meeting notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
